@@ -21,11 +21,11 @@ function isArgsValid(start, end) {
 }
 
 function createMulTable (start, end) {
-  let result = "";
+  let table = "";
   for (let i = start; i <= end; i++) {
-    result += creatMulLine(start, i) + "\n";
+    table += creatMulLine(start, i) + "\n";
   }
-  return result.substr(0, result.length-1);
+  return table.substr(0, table.length-1);
 
 }
 

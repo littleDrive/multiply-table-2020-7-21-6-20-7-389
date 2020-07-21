@@ -1,0 +1,11 @@
+P: 
+    createMultiplyTable ：2m
+    isArgsValid : 3m
+    createMulTable : 5 m
+    creatMulLine ：5m
+
+C :
+    createMultiplyTable ：1m
+    isArgsValid : 2m
+    createMulTable : 30 m
+    creatMulLine ：10m
